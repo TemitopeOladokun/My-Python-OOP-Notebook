@@ -1,2 +1,2 @@
 # Python-OOP
-This repository contains code on Python Object oriented Programming
+This repository contains code my Python Object oriented Programming
